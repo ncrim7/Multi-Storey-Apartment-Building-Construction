@@ -78,7 +78,10 @@ Kat 1, Daire 1, Kaba İnşaat için Vinç kaynağını aldı.
 ...
 Apartman inşaatı tamamlandı! Toplam 10 kat ve 40 daire başarıyla inşa edildi.
 ```
-
+---
+## 📸 Ekran Görüntüsü
+<img src="https://github.com/ncrim7/Multi-Storey-Apartment-Building-Construction/blob/main/img.png" width="1000px" height="auto">. 
+---
 ## ⚙️ Öğrenilen İşletim Sistemi Kavramları
 - Process yönetimi
 
