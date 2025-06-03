@@ -80,7 +80,7 @@ Apartman inşaatı tamamlandı! Toplam 10 kat ve 40 daire başarıyla inşa edil
 ```
 ---
 ## 📸 Ekran Görüntüsü
-<img src="https://github.com/ncrim7/Multi-Storey-Apartment-Building-Construction/blob/main/img.png" width="1000px" height="auto">. 
+<img src="https://github.com/ncrim7/Multi-Storey-Apartment-Building-Construction/blob/main/img.png" width="1000px" height="auto">
 ---
 ## ⚙️ Öğrenilen İşletim Sistemi Kavramları
 - Process yönetimi
